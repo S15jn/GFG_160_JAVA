@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Day_06_MinimizeTheHeight {
     int getMinDiff(int[] arr, int k) {
         // code here
